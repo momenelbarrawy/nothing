@@ -3,7 +3,7 @@
 A curated list of CTF resources and challenges to enhance your cybersecurity skills.  
 
 ## Basics  
-- [ ] [OverTheWire - Bandit](https://overthewire.org/wargames/bandit/)  
+- [ 1] [OverTheWire - Bandit](https://overthewire.org/wargames/bandit/)  
 - [ ] [OverTheWire - Leviathan](https://overthewire.org/wargames/leviathan/)  
 - [ ] [TryHackMe - Introduction to Cyber Security](https://tryhackme.com/room/introtocyber)  
 - [ ] [TryHackMe - Learn Linux](https://tryhackme.com/room/zthlinux)  
