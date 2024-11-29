@@ -1,7 +1,5 @@
 # CTF Learning To-Do List  
 
-A curated list of CTF resources and challenges to enhance your cybersecurity skills.  
-
 ## Basics  
 - [ ] [OverTheWire - Bandit](https://overthewire.org/wargames/bandit/)  
 - [ ] [OverTheWire - Leviathan](https://overthewire.org/wargames/leviathan/)  
@@ -54,9 +52,3 @@ A curated list of CTF resources and challenges to enhance your cybersecurity ski
 ## Tools and Resources  
 - [ ] [CTF101 - CTF Toolkit](https://ctf101.org/tools/)  
 
----
-
-### How to Use  
-1. Clone this repository or use it as a reference.  
-2. Tick off challenges as you complete them.  
-3. Update with your progress and new resources as needed!  
